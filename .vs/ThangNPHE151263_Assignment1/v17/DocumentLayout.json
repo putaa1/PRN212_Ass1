@@ -1,0 +1,486 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\ThangNPHE151263_Assignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|g:\\thangnphe151263_assignment1\\thangnphe151263wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|solutionrelative:thangnphe151263wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|g:\\thangnphe151263_assignment1\\thangnphe151263wpf\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|solutionrelative:thangnphe151263wpf\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Putaa\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|g:\\thangnphe151263_assignment1\\thangnphe151263wpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|solutionrelative:thangnphe151263wpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F4D998-02BA-4647-8C99-0B5A2F477094}|DataAccess\\DataAccess.csproj|g:\\thangnphe151263_assignment1\\dataaccess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69F4D998-02BA-4647-8C99-0B5A2F477094}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|g:\\thangnphe151263_assignment1\\thangnphe151263wpf\\roomdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|solutionrelative:thangnphe151263wpf\\roomdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|g:\\thangnphe151263_assignment1\\thangnphe151263wpf\\roomdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|solutionrelative:thangnphe151263wpf\\roomdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|g:\\thangnphe151263_assignment1\\thangnphe151263wpf\\bookingdetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|solutionrelative:thangnphe151263wpf\\bookingdetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|g:\\thangnphe151263_assignment1\\thangnphe151263wpf\\bookingdetailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|solutionrelative:thangnphe151263wpf\\bookingdetailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|g:\\thangnphe151263_assignment1\\thangnphe151263wpf\\reportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|solutionrelative:thangnphe151263wpf\\reportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|g:\\thangnphe151263_assignment1\\thangnphe151263wpf\\reportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|solutionrelative:thangnphe151263wpf\\reportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|g:\\thangnphe151263_assignment1\\thangnphe151263wpf\\customerdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|solutionrelative:thangnphe151263wpf\\customerdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|g:\\thangnphe151263_assignment1\\thangnphe151263wpf\\customerdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|solutionrelative:thangnphe151263wpf\\customerdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|g:\\thangnphe151263_assignment1\\thangnphe151263wpf\\manageroomwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|solutionrelative:thangnphe151263wpf\\manageroomwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|g:\\thangnphe151263_assignment1\\thangnphe151263wpf\\manageroomwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|solutionrelative:thangnphe151263wpf\\manageroomwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|g:\\thangnphe151263_assignment1\\thangnphe151263wpf\\managecustomerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|solutionrelative:thangnphe151263wpf\\managecustomerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|g:\\thangnphe151263_assignment1\\thangnphe151263wpf\\managecustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|solutionrelative:thangnphe151263wpf\\managecustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|g:\\thangnphe151263_assignment1\\thangnphe151263wpf\\thangnphe151263wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|solutionrelative:thangnphe151263wpf\\thangnphe151263wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|g:\\thangnphe151263_assignment1\\thangnphe151263wpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|solutionrelative:thangnphe151263wpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|g:\\thangnphe151263_assignment1\\thangnphe151263wpf\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|solutionrelative:thangnphe151263wpf\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|g:\\thangnphe151263_assignment1\\thangnphe151263wpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|solutionrelative:thangnphe151263wpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|g:\\thangnphe151263_assignment1\\thangnphe151263wpf\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|solutionrelative:thangnphe151263wpf\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|g:\\thangnphe151263_assignment1\\thangnphe151263wpf\\bookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|solutionrelative:thangnphe151263wpf\\bookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|g:\\thangnphe151263_assignment1\\thangnphe151263wpf\\bookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|solutionrelative:thangnphe151263wpf\\bookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|g:\\thangnphe151263_assignment1\\thangnphe151263wpf\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBE12AD-7D6A-468C-AFFD-C703512364E4}|ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj|solutionrelative:thangnphe151263wpf\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F4D998-02BA-4647-8C99-0B5A2F477094}|DataAccess\\DataAccess.csproj|g:\\thangnphe151263_assignment1\\dataaccess\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F4D998-02BA-4647-8C99-0B5A2F477094}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F4D998-02BA-4647-8C99-0B5A2F477094}|DataAccess\\DataAccess.csproj|g:\\thangnphe151263_assignment1\\dataaccess\\repository\\ibookingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F4D998-02BA-4647-8C99-0B5A2F477094}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\ibookingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F4D998-02BA-4647-8C99-0B5A2F477094}|DataAccess\\DataAccess.csproj|g:\\thangnphe151263_assignment1\\dataaccess\\roomtypedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F4D998-02BA-4647-8C99-0B5A2F477094}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\roomtypedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\App.xaml",
+              "RelativeDocumentMoniker": "ThangNPHE151263WPF\\App.xaml",
+              "ToolTip": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\App.xaml",
+              "RelativeToolTip": "ThangNPHE151263WPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T15:48:30.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\Putaa\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\Putaa\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [Read Only]",
+              "ViewState": "AQIAABMAAAAAAAAAAAAnwCcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:47:55.646Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomDetail.xaml.cs",
+              "DocumentMoniker": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\RoomDetail.xaml.cs",
+              "RelativeDocumentMoniker": "ThangNPHE151263WPF\\RoomDetail.xaml.cs",
+              "ToolTip": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\RoomDetail.xaml.cs",
+              "RelativeToolTip": "ThangNPHE151263WPF\\RoomDetail.xaml.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAtwKwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:35:41.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManageRoomWindow.xaml.cs",
+              "DocumentMoniker": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\ManageRoomWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ThangNPHE151263WPF\\ManageRoomWindow.xaml.cs",
+              "ToolTip": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\ManageRoomWindow.xaml.cs",
+              "RelativeToolTip": "ThangNPHE151263WPF\\ManageRoomWindow.xaml.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAwDkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:33:19.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookingDetailWindow.xaml.cs",
+              "DocumentMoniker": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\BookingDetailWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ThangNPHE151263WPF\\BookingDetailWindow.xaml.cs",
+              "ToolTip": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\BookingDetailWindow.xaml.cs",
+              "RelativeToolTip": "ThangNPHE151263WPF\\BookingDetailWindow.xaml.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAlwFAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:25:28.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingDetailWindow.xaml",
+              "DocumentMoniker": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\BookingDetailWindow.xaml",
+              "RelativeDocumentMoniker": "ThangNPHE151263WPF\\BookingDetailWindow.xaml",
+              "ToolTip": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\BookingDetailWindow.xaml",
+              "RelativeToolTip": "ThangNPHE151263WPF\\BookingDetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T15:24:48.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerDetail.xaml",
+              "DocumentMoniker": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\CustomerDetail.xaml",
+              "RelativeDocumentMoniker": "ThangNPHE151263WPF\\CustomerDetail.xaml",
+              "ToolTip": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\CustomerDetail.xaml",
+              "RelativeToolTip": "ThangNPHE151263WPF\\CustomerDetail.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T15:27:37.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerDetail.xaml.cs",
+              "DocumentMoniker": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\CustomerDetail.xaml.cs",
+              "RelativeDocumentMoniker": "ThangNPHE151263WPF\\CustomerDetail.xaml.cs",
+              "ToolTip": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\CustomerDetail.xaml.cs",
+              "RelativeToolTip": "ThangNPHE151263WPF\\CustomerDetail.xaml.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAawG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:27:48.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "ThangNPHE151263WPF\\AdminWindow.xaml",
+              "ToolTip": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\AdminWindow.xaml",
+              "RelativeToolTip": "ThangNPHE151263WPF\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T15:23:13.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\appsettings.json",
+              "RelativeDocumentMoniker": "ThangNPHE151263WPF\\appsettings.json",
+              "ToolTip": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\appsettings.json",
+              "RelativeToolTip": "ThangNPHE151263WPF\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T15:40:41.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoomDetail.xaml",
+              "DocumentMoniker": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\RoomDetail.xaml",
+              "RelativeDocumentMoniker": "ThangNPHE151263WPF\\RoomDetail.xaml",
+              "ToolTip": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\RoomDetail.xaml",
+              "RelativeToolTip": "ThangNPHE151263WPF\\RoomDetail.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T15:35:16.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\ThangNPHE151263_Assignment1\\DataAccess\\appsettings.json",
+              "RelativeDocumentMoniker": "DataAccess\\appsettings.json",
+              "ToolTip": "G:\\ThangNPHE151263_Assignment1\\DataAccess\\appsettings.json",
+              "RelativeToolTip": "DataAccess\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T15:02:27.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ThangNPHE151263WPF",
+              "DocumentMoniker": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj",
+              "RelativeDocumentMoniker": "ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj",
+              "ToolTip": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj",
+              "RelativeToolTip": "ThangNPHE151263WPF\\ThangNPHE151263WPF.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-11T15:31:21.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReportWindow.xaml",
+              "DocumentMoniker": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\ReportWindow.xaml",
+              "RelativeDocumentMoniker": "ThangNPHE151263WPF\\ReportWindow.xaml",
+              "ToolTip": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\ReportWindow.xaml",
+              "RelativeToolTip": "ThangNPHE151263WPF\\ReportWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T15:34:29.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReportWindow.xaml.cs",
+              "DocumentMoniker": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\ReportWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ThangNPHE151263WPF\\ReportWindow.xaml.cs",
+              "ToolTip": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\ReportWindow.xaml.cs",
+              "RelativeToolTip": "ThangNPHE151263WPF\\ReportWindow.xaml.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAtwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:34:35.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManageRoomWindow.xaml",
+              "DocumentMoniker": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\ManageRoomWindow.xaml",
+              "RelativeDocumentMoniker": "ThangNPHE151263WPF\\ManageRoomWindow.xaml",
+              "ToolTip": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\ManageRoomWindow.xaml",
+              "RelativeToolTip": "ThangNPHE151263WPF\\ManageRoomWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T15:32:57.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ManageCustomerWindow.xaml.cs",
+              "DocumentMoniker": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\ManageCustomerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ThangNPHE151263WPF\\ManageCustomerWindow.xaml.cs",
+              "ToolTip": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\ManageCustomerWindow.xaml.cs",
+              "RelativeToolTip": "ThangNPHE151263WPF\\ManageCustomerWindow.xaml.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAABUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:31:55.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ManageCustomerWindow.xaml",
+              "DocumentMoniker": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\ManageCustomerWindow.xaml",
+              "RelativeDocumentMoniker": "ThangNPHE151263WPF\\ManageCustomerWindow.xaml",
+              "ToolTip": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\ManageCustomerWindow.xaml",
+              "RelativeToolTip": "ThangNPHE151263WPF\\ManageCustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T15:31:48.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ThangNPHE151263WPF\\LoginWindow.xaml.cs",
+              "ToolTip": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "ThangNPHE151263WPF\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAcwFUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:30:54.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "ThangNPHE151263WPF\\LoginWindow.xaml",
+              "ToolTip": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\LoginWindow.xaml",
+              "RelativeToolTip": "ThangNPHE151263WPF\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T15:30:47.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomerWindow.xaml.cs",
+              "DocumentMoniker": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\CustomerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ThangNPHE151263WPF\\CustomerWindow.xaml.cs",
+              "ToolTip": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\CustomerWindow.xaml.cs",
+              "RelativeToolTip": "ThangNPHE151263WPF\\CustomerWindow.xaml.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAuwD0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:29:50.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomerWindow.xaml",
+              "DocumentMoniker": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\CustomerWindow.xaml",
+              "RelativeDocumentMoniker": "ThangNPHE151263WPF\\CustomerWindow.xaml",
+              "ToolTip": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\CustomerWindow.xaml",
+              "RelativeToolTip": "ThangNPHE151263WPF\\CustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T15:29:48.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BookingWindow.xaml.cs",
+              "DocumentMoniker": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\BookingWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ThangNPHE151263WPF\\BookingWindow.xaml.cs",
+              "ToolTip": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\BookingWindow.xaml.cs",
+              "RelativeToolTip": "ThangNPHE151263WPF\\BookingWindow.xaml.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwFUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:29:05.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BookingWindow.xaml",
+              "DocumentMoniker": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\BookingWindow.xaml",
+              "RelativeDocumentMoniker": "ThangNPHE151263WPF\\BookingWindow.xaml",
+              "ToolTip": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\BookingWindow.xaml",
+              "RelativeToolTip": "ThangNPHE151263WPF\\BookingWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T15:28:38.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ThangNPHE151263WPF\\AdminWindow.xaml.cs",
+              "ToolTip": "G:\\ThangNPHE151263_Assignment1\\ThangNPHE151263WPF\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "ThangNPHE151263WPF\\AdminWindow.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwCMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:23:38.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "G:\\ThangNPHE151263_Assignment1\\DataAccess\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\CustomerDAO.cs",
+              "ToolTip": "G:\\ThangNPHE151263_Assignment1\\DataAccess\\CustomerDAO.cs",
+              "RelativeToolTip": "DataAccess\\CustomerDAO.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAkwD0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:09:55.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IBookingDetailRepository.cs",
+              "DocumentMoniker": "G:\\ThangNPHE151263_Assignment1\\DataAccess\\Repository\\IBookingDetailRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\IBookingDetailRepository.cs",
+              "ToolTip": "G:\\ThangNPHE151263_Assignment1\\DataAccess\\Repository\\IBookingDetailRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\IBookingDetailRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:04:52.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RoomTypeDAO.cs",
+              "DocumentMoniker": "G:\\ThangNPHE151263_Assignment1\\DataAccess\\RoomTypeDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\RoomTypeDAO.cs",
+              "ToolTip": "G:\\ThangNPHE151263_Assignment1\\DataAccess\\RoomTypeDAO.cs",
+              "RelativeToolTip": "DataAccess\\RoomTypeDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:02:25.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ThangNPHE151263_Assignment1/1.0.0": {
+        "runtime": {
+          "ThangNPHE151263_Assignment1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThangNPHE151263_Assignment1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
